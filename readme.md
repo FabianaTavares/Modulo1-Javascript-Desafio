@@ -6,6 +6,19 @@ Bootcamp FrontEnd - IGTI 2020
 
 Apesar de o curso fornecer o codigo fonte original aos alunos, procurei deixar o meu codigo, exibindo assim erros e acertos, coisas a melhorar, acho que transparência é um ponto importantíssimo para o profissional.
 
+## Ambiente de Desenvolvimento
+
+### Backend
+
+Para que o backend funcione, execute os seguintes comandos (sem aspas):
+
+1. "npm install", para instalar as dependências
+2. "npm start", para "subir" o backend
+
+### Frontend
+
+1. Abrir o arquivo index.html no browser.
+
 ## Resultado final no Firebase
 
 Para ver o projeto em execução, foi utilizado o host de testes do firebase, basta clicar no link abaixo:
