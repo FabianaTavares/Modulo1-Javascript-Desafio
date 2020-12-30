@@ -5,14 +5,15 @@ Bootcamp FrontEnd - IGTI
 ## Objetivos
 
 Exercitar os seguintes conceitos trabalhados no Módulo:
- Declarar elementos HTML como títulos, parágrafos, inputs, divs, spans etc.
- Estilizar o app com CSS.
- Mapear elementos do DOM para serem manipulados com JavaScript.
- Realizar diversos cálculos com array methods como map, filter, some, forEach e
-includes.
- Realizar requisições HTTP com o comando fetch e utilização de promises ou
-async/await.
- Sair da zona de conforto e pensar fora da caixa.
+
+> Declarar elementos HTML como títulos, parágrafos, inputs, divs, spans etc.
+> Estilizar o app com CSS.
+> Mapear elementos do DOM para serem manipulados com JavaScript.
+> Realizar diversos cálculos com array methods como map, filter, some, forEach e
+> includes.
+> Realizar requisições HTTP com o comando fetch e utilização de promises ou
+> async/await.
+> Sair da zona de conforto e pensar fora da caixa.
 
 ## Enunciado
 
