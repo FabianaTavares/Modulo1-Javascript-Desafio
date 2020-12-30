@@ -1,8 +1,16 @@
 # Descrição do Desafio Modulo 1 - Javascript
 
-Bootcamp FrontEnd - IGTI
+Bootcamp FrontEnd - IGTI 2020
 
-## Objetivos
+## Observação
+
+Apesar de o curso fornecer o codigo fonte original aos alunos, procurei deixar o meu codigo, exibindo assim erros e acertos, coisas a melhorar, acho que transparência é um ponto importantíssimo para o profissional.
+
+## Resultado final no Firebase
+
+Para ver o projeto em execução, foi utilizado o host de testes do firebase, basta clicar no link abaixo:
+
+## Objetivos do Desafio
 
 Exercitar os seguintes conceitos trabalhados no Módulo:
 
@@ -72,7 +80,3 @@ Busca com o texto "or", que filtrou Nara Porto, Aléxio Rezende (desconsiderando
    caso, deixo um projeto bastante semelhante ao desafio neste link, que pode servir
    de apoio e sanar algumas dúvidas. Atenção: tenha certeza de que você vai
    aprender muito mais se implementar este desafio sozinho.
-
-## Firebase
-
-Para ver o projeto em execução, foi utilizado o host de testes do firebase, basta clicar no link abaixo:
