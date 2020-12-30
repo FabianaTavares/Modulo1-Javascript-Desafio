@@ -46,3 +46,33 @@ Os alunos deverão desempenhar as seguintes atividades:
    situações possíveis. Foi utilizado o Materialize como ferramenta de CSS.
 
 ![alt text](https://github.com/FabianaTavares/Modulo1-Javascript-Desafio/blob/master/frontend/img/img_desafio_sugestao.PNG)
+
+Perceba também a variação da combinação de linguagens de programação, pois
+há dev's que conhecem somente JavaScript e dev's que conhecem JavaScript E Python,
+por exemplo. Isso é válido quando OU está selecionado.
+
+Busca com o texto "or", que filtrou Nara Porto, Aléxio Rezende (desconsiderando espaços em branco) e Loreta Nascimento.
+
+## Atividades
+
+1. Lembre-se sempre de que há várias formas de se implementar um problema.
+2. Após executar a requisição à API, faça uma transformação de dados com map e crie
+   um campo adicional para usar como busca. Esse campo deve converter o nome
+   para minúsculas e retirar os espaços em branco. Use esse campo adicional para
+   localizar os dev's quando o usuário digitar no input.
+3. Dê prioridade à funcionalidade e só depois dedique-se à interface.
+4. A função split pode converter uma string em array. A função join pode converter
+   um array em string.
+5. Utilize o evento input para filtrar os dados a partir da digitação do usuário.
+6. Na minha opinião, a lógica mais complexa deste app é a filtragem de dev's utilizando
+   OR. Para fazer isso, pense em conjuntos. Utilizando OR, pelo menos uma das
+   linguagens marcadas (array.some) deve estar presente no conjunto de todas as
+   linguagens (array.includes).
+7. Tente ao máximo implementar o desafio sozinho, com o apoio do fórum. Em último
+   caso, deixo um projeto bastante semelhante ao desafio neste link, que pode servir
+   de apoio e sanar algumas dúvidas. Atenção: tenha certeza de que você vai
+   aprender muito mais se implementar este desafio sozinho.
+
+## Firebase
+
+Para ver o projeto em execução, foi utilizado o host de testes do firebase, basta clicar no link abaixo:
