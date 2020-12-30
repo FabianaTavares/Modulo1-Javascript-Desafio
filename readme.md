@@ -45,4 +45,4 @@ Os alunos deverão desempenhar as seguintes atividades:
 6. As imagens abaixo ilustram exemplos de interface da aplicação em algumas
    situações possíveis. Foi utilizado o Materialize como ferramenta de CSS.
 
-![alt text](https://github.com/FabianaTavares/Modulo1-Javascript-Desafio/master/frontend/img/img_desafio_sugestao.PNG)
+![alt text](https://github.com/FabianaTavares/Modulo1-Javascript-Desafio/blob/master/frontend/img/img_desafio_sugestao.PNG)
