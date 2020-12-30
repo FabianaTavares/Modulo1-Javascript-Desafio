@@ -19,10 +19,6 @@ Para que o backend funcione, execute os seguintes comandos (sem aspas):
 
 1. Abrir o arquivo index.html no browser.
 
-## Resultado final no Firebase
-
-Para ver o projeto em execução, foi utilizado o host de testes do firebase, basta clicar no link abaixo:
-
 ## Objetivos do Desafio
 
 Exercitar os seguintes conceitos trabalhados no Módulo:
