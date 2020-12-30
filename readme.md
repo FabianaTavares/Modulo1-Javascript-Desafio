@@ -61,7 +61,7 @@ por exemplo. Isso é válido quando OU está selecionado.
 
 Busca com o texto "or", que filtrou Nara Porto, Aléxio Rezende (desconsiderando espaços em branco) e Loreta Nascimento.
 
-## Atividades
+## Dicas e Sugestões
 
 1. Lembre-se sempre de que há várias formas de se implementar um problema.
 2. Após executar a requisição à API, faça uma transformação de dados com map e crie
